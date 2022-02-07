@@ -5,7 +5,7 @@
  * @packege Aquila
  */
 ?> 
-<footer>Header</footer>
+<footer>Footer</footer>
 
 <?php wp_footer();?>
 </body>
